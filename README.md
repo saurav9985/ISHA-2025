@@ -1,2 +1,2 @@
 # ISHA-2025
-This is a demo for Git and GitHub class
+This is demo for Git and GitHub class
